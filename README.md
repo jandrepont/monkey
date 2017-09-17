@@ -1,3 +1,3 @@
 # monkey
-interpreter for language monkey using Go
-Work in progress
+* interpreter for language monkey using Go  
+* Work in progress
